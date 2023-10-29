@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadWordsFilter", "BadWordsFilter\BadWordsFilter.csproj", "{9F85BE42-79BB-4E0A-B7AD-BA77B1426AAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadWordsFilterTests", "BadWordsFilterTests\BadWordsFilterTests.csproj", "{D16549CE-9FC0-4D96-8FCC-413E11D0B669}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F85BE42-79BB-4E0A-B7AD-BA77B1426AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F85BE42-79BB-4E0A-B7AD-BA77B1426AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F85BE42-79BB-4E0A-B7AD-BA77B1426AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F85BE42-79BB-4E0A-B7AD-BA77B1426AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D16549CE-9FC0-4D96-8FCC-413E11D0B669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D16549CE-9FC0-4D96-8FCC-413E11D0B669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D16549CE-9FC0-4D96-8FCC-413E11D0B669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D16549CE-9FC0-4D96-8FCC-413E11D0B669}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DC78857-A556-4313-BD1A-C05D38604896}
+	EndGlobalSection
+EndGlobal
